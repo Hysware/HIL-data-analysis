@@ -1,0 +1,64 @@
+26-Aug-25 15:22:15: Created new levit8r data file hil.lev
+      ...cube file = hil.cub
+      ...2D projection file = hil.2dp
+26-Aug-25 15:22:19: ADC-to-Cube lookup table file = hil.tab
+26-Aug-25 15:22:22: Energy calibration file = eu152.aca
+     ...Contraction factor = 1
+26-Aug-25 15:22:35: Efficiency calibration file = 79br.eff
+26-Aug-25 15:22:37: Error for energy calibration = 0.030000
+26-Aug-25 15:22:37: Percentage error on efficiency = 3.000000
+26-Aug-25 15:22:38: Gaussian peak shapes selected.
+26-Aug-25 15:22:39: Peak width parameters = 3.000000 1.414214 0.000000
+26-Aug-25 15:22:39: New background spectra, no E2-enhancement.
+       ...Total projection spectrum file name =  hil.spe
+       ...Total background spectrum file name =  bg.spe
+26-Aug-25 15:22:58: Percentage error on background = 5.000000
+26-Aug-25 15:22:58: 2D Scaling factor = 0.076006
+26-Aug-25 15:43:34: Created new levit8r data file hil.lev
+      ...cube file = hil.cub
+      ...2D projection file = hil.2dp
+26-Aug-25 15:43:50: ADC-to-Cube lookup table file = hil.tab
+26-Aug-25 15:43:52: Energy calibration file = eu152.aca
+     ...Contraction factor = 2
+26-Aug-25 15:44:08: Efficiency calibration file = 79br.eff
+26-Aug-25 15:44:10: Error for energy calibration = 0.030000
+26-Aug-25 15:44:10: Percentage error on efficiency = 3.000000
+26-Aug-25 15:44:10: Gaussian peak shapes selected.
+26-Aug-25 15:44:11: Peak width parameters = 3.000000 1.414214 0.000000
+26-Aug-25 15:44:11: New background spectra, no E2-enhancement.
+       ...Total projection spectrum file name =  hil.spe
+       ...Total background spectrum file name =  bg.spe
+26-Aug-25 15:44:28: Percentage error on background = 5.000000
+26-Aug-25 15:44:28: 2D Scaling factor = 0.001543
+26-Aug-25 15:45:33: Created new levit8r data file hil.lev
+      ...cube file = hil.cub
+      ...2D projection file = hil.2dp
+26-Aug-25 15:45:37: ADC-to-Cube lookup table file = hil.tab
+26-Aug-25 15:45:40: Energy calibration file = eu152.aca
+     ...Contraction factor = 1
+26-Aug-25 15:45:55: Efficiency calibration file = 79br.eff
+26-Aug-25 15:45:56: Error for energy calibration = 0.030000
+26-Aug-25 15:45:56: Percentage error on efficiency = 3.000000
+26-Aug-25 15:45:57: Gaussian peak shapes selected.
+26-Aug-25 15:45:58: Peak width parameters = 3.000000 1.414214 0.000000
+26-Aug-25 15:45:58: New background spectra, no E2-enhancement.
+       ...Total projection spectrum file name =  hil.spe
+       ...Total background spectrum file name =  bg.spe
+26-Aug-25 15:46:14: Percentage error on background = 5.000000
+26-Aug-25 15:46:14: 2D Scaling factor = 0.076731
+02-Sep-25 09:05:04: Created new levit8r data file hil.lev
+      ...cube file = hil.cub
+      ...2D projection file = hil.2dp
+02-Sep-25 09:05:10: ADC-to-Cube lookup table file = hil.tab
+02-Sep-25 09:05:12: Energy calibration file = eu152.aca
+     ...Contraction factor = 1
+02-Sep-25 09:05:19: Efficiency calibration file = 79br.eff
+02-Sep-25 09:05:20: Error for energy calibration = 0.030000
+02-Sep-25 09:05:20: Percentage error on efficiency = 3.000000
+02-Sep-25 09:05:22: Gaussian peak shapes selected.
+02-Sep-25 09:05:22: Peak width parameters = 3.000000 1.414214 0.000000
+02-Sep-25 09:05:22: New background spectra, no E2-enhancement.
+       ...Total projection spectrum file name =  hil.spe
+       ...Total background spectrum file name =  bg.spe
+02-Sep-25 09:05:33: Percentage error on background = 5.000000
+02-Sep-25 09:05:33: 2D Scaling factor = 0.018620

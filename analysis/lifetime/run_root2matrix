@@ -1,0 +1,12 @@
+#!/bin/bash
+
+max_jobs=80
+
+while read run; do
+  echo "Start processing root2matrix $run ..."
+  ./root2matrix $run &
+
+  while (( $(jobs -p | wc -l) >= $max_jobs )); do
+    wait -n
+  done
+done < "./run.list"
